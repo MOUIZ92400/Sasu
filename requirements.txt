@@ -1,1 +1,2 @@
-streamlit
+streamlitgspread
+google-auth

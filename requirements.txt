@@ -1,2 +1,3 @@
-streamlitgspread
+gspread
 google-auth
+streamlit
